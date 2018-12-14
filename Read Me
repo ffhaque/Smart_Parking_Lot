@@ -1,0 +1,7 @@
+Hello everyone, who is following the guide here.
+
+We have created a smart parking lot using raspberry pi and infrared sensor which gives allocation to the user in which parking slot to go to.
+
+We used a Node-Red program which uses an algorithm to take the screenshot of the backside of the car and detects the license plate number and also checks each character with the database to see if the car is registered or not.
+
+This help help to minimize the hassle to always check for a car's registration where, we tend to make it automatic.
